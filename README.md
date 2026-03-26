@@ -1,6 +1,6 @@
 # Minecraft OS
 
-## Rebuild Underway... expect in 2-3 weeks
+#This a fork of Rahul0c
 
 ## Intro
 Are you tired of all the ram and CPU that windows, Mac OS X or even Linux is using?
@@ -27,6 +27,7 @@ Thanks to https://github.com/portablemc/portablemc, 95% of the code for the Offl
 If you want to contribute to the project feel free to reach out 
 ## Demo (In a VM,real hardware is working!)
 [![Watch the video]()](https://youtu.be/mRYNaloFvSg)
+
 
 
 ## Download and Things to be Done
